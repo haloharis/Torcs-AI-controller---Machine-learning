@@ -1,12 +1,11 @@
-# Torcs AI Controller
-![image](https://github.com/user-attachments/assets/03434b8d-2fb4-4238-bb89-f2f6902e0395)
-
-
 # 🏎️ TORCS-AI-Racer
 
 **Autonomous Racing Controller using Python & Machine Learning**
 
 A data-driven AI controller built for [TORCS (The Open Racing Car Simulator)](http://torcs.sourceforge.net/), trained to predict throttle, brake, and steering commands using real-time sensor inputs.
+
+![image](https://github.com/user-attachments/assets/9c3e1a60-1662-43b1-9242-7b8541d33c16)
+
 
 ---
 
@@ -108,7 +107,6 @@ The MLP controller effectively replicates human-like driving behavior.
 ### 🔧 Future Enhancements
 
 * Collect diverse driving data (varied tracks, conditions)
-* Replace rule-based gear logic with a learned model
 * Explore **deep reinforcement learning** for adaptive behavior
 
 ---
@@ -139,15 +137,7 @@ The MLP controller effectively replicates human-like driving behavior.
 
 ## 💡 Author
 
-**\[Your Name]** – *AI/ML Enthusiast | Autonomous Systems Developer*
+**\Haris Ahmed** – *AI/ML Enthusiast | Autonomous Systems Developer*
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-See [`LICENSE`](LICENSE) for more information.
-
----
-
-Let me know if you'd like badges, a demo video/GIF section, or project logo added!
