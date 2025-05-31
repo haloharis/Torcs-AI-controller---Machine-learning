@@ -1,8 +1,6 @@
-# Torcs
+# Torcs AI Controller
+![image](https://github.com/user-attachments/assets/03434b8d-2fb4-4238-bb89-f2f6902e0395)
 
-Here is a well-structured and visually appealing `README.md` for your GitHub repository:
-
----
 
 # 🏎️ TORCS-AI-Racer
 
